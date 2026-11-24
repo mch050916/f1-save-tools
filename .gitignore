@@ -1,0 +1,11 @@
+# Game saves and working databases (large, personal)
+backups/
+old_saves/
+work/
+*.sav
+*.db
+*.stamp
+
+# Python
+__pycache__/
+*.pyc
